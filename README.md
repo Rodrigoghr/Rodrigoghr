@@ -8,7 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigoghr)
 
-# Algunos proyectos de la comunidad
+# Algunos proyectos:
+
+## Proyecto 1
 
 <!--
 ## SQL y bases de datos: Curso
