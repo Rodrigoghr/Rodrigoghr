@@ -41,6 +41,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 -->
+
+## Mis estadísticas:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodrigoghr&theme=transparent&hide_border=true&border_radius=5&locale=en&card_width=500)](https://git.io/streak-stats)
+
 # Algunos proyectos:
 
 ## Proyecto 1
