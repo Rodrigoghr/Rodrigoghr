@@ -1,14 +1,20 @@
 # Hola, mi nombre es Rodrigo Hernandez 👋
-### Freelance Data [Analyst - Engineer] ⚡
-
+### Freelance Data Analyst ⚡
+<!--
 ![GitHub Followers](https://img.shields.io/github/followers/Rodrigoghr?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Rodrigoghr?style=social)
+-->
+![Github Views](https://komarev.com/ghpvc/?username=Rodrigoghr&color=blue&style=flat-square&abbreviated=true)
 
 Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y la automatización de procesos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-   
-> 👨‍🏭 Actualmente estoy trabajando en el area de Data 📊 de una empresa del sector bancario pero necesito nuevos retos 💪
 
-> 👨‍💻 Encantado de descubrir nuevas formas de automatizar mi trabajo. 
+> 👨‍🏭 Trabajo en el area de `Data` 📊 de una empresa del sector bancario, pero estoy abierto a nuevos retos 💪
+
+> 🤓 Siempre `aprendiendo cosas nuevas`
+
+> 🧑‍🎓 Actualmente estoy aprendiendo sobre `Data Engineer` y su ecosistema de herramientas en entornos `Cloud`.
+
+> 🧑‍💻 Me encanta usar el software como solución para cada `problema`.
    
 
 
@@ -53,6 +59,11 @@ Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y 
 ## Mis estadísticas:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodrigoghr&theme=transparent&hide_border=true&border_radius=5&locale=en&card_width=500)](https://git.io/streak-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigoghr&show_icons=true&locale=en&layout=compact" alt="Rodrigoghr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigoghr&show_icons=true&locale=en" alt="Rodrigoghr" /></p>
+
 
 # Algunos proyectos:
 
