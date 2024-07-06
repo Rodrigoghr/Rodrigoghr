@@ -6,9 +6,9 @@
 
 Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y la automatización de procesos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
->* 👨‍🏭 Actualmente estoy trabajando en el area de Data 📊 de una empresa del sector bancario pero necesito nuevos retos 💪
+> 👨‍🏭 Actualmente estoy trabajando en el area de Data 📊 de una empresa del sector bancario pero necesito nuevos retos 💪
 
->* 👨‍💻 Me encanta descubrir nuevas formas de automatizar mi trabajo 
+> 👨‍💻 Encantado de descubrir nuevas formas de automatizar mi trabajo. 
    
 
 
