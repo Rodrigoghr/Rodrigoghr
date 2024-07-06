@@ -1,5 +1,5 @@
 # Hola, mi nombre es Rodrigo Hernandez 👋
-### Freelance Data Analyst ⚡
+### Freelance Data [Analyst - Engineer] ⚡
 
 ![GitHub Followers](https://img.shields.io/github/followers/Rodrigoghr?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Rodrigoghr?style=social)
