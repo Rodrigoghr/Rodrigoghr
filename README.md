@@ -4,6 +4,14 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Rodrigoghr?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Rodrigoghr?style=social)
 
+Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y la automatización de procesos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+   
+>* 👨‍🏭 Actualmente estoy trabajando en el area de Data 📊 de una empresa del sector bancario pero necesito nuevos retos 💪
+
+>* 👨‍💻 Me encanta descubrir nuevas formas de automatizar mi trabajo 
+   
+
+
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigoghr)
