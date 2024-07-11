@@ -108,6 +108,8 @@ Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y 
 
 -->
 
+<!--
 ## Stargazers
 
 [![Stargazers repo roster for @Rodrigoghr/Rodrigoghr](https://reporoster.com/stars/Rodrigoghr/Rodrigoghr)](https://github.com/Rodrigoghr/Rodrigoghr/stargazers)
+-->
