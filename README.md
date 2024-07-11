@@ -6,7 +6,7 @@
 -->
 ![Github Views](https://komarev.com/ghpvc/?username=Rodrigoghr&color=blue&style=flat-square&abbreviated=true)
 
-Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y la automatización de procesos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Soy un apasionado del análisis de datos y la automatización de procesos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 > 👨‍🏭 Trabajo en el area de `Data` 📊 de una empresa del sector bancario, pero estoy abierto a nuevos retos 💪
 
@@ -65,42 +65,42 @@ Soy Ingeniero de Sistemas en formación, apasionado por el análisis de datos y 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigoghr&show_icons=true&locale=en" alt="Rodrigoghr" /></p>
 
 
-# Algunos proyectos:
+## Algunos proyectos:
 
-## Proyecto 1
+#### Proyecto 1
 
 <!--
-## SQL y bases de datos: Curso
+#### SQL y bases de datos: Curso
 
 <a href=""><img src="https://raw.githubusercontent.com/Rodrigoghr/Hello-SQL/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
 [![Curso SQL](https://img.shields.io/github/stars/Rodrigoghr/hello-sql?label=Curso%20SQL&style=social)](https://github.com/Rodrigoghr/hello-sql)
 
-## Python desde cero: Curso
+#### Python desde cero: Curso
 
 <a href=""><img src="" style="height: 60%; width:60%;"/></a>
 
 [![Curso Python]()](https://github.com/Rodrigoghr/[repositorio_python])
 
-## SQL Server Integration Services: Curso
+#### SQL Server Integration Services: Curso
 
 <a href=""><img src="" style="height: 60%; width:60%;"/></a>
 
 [![Curso SSIS]()](https://github.com/Rodrigoghr/[repositorio_SSIS])
 
-## BIG Data Processing: Primeros pasos
+#### BIG Data Processing: Primeros pasos
 
 <a href=""><img src="" style="height: 60%; width:60%;"/></a>
 
 [![Curso BIG DATA]()](https://github.com/Rodrigoghr/[repositorio_big_data])
 
-## Cloud Data Engineering: Primeros pasos
+#### Cloud Data Engineering: Primeros pasos
 
 <a href=""><img src="" style="height: 60%; width:60%;"/></a>
 
 [![Curso Cloud Data]()](https://github.com/Rodrigoghr/[repositorio_cloud_data_eng)
 
-## NoSQL: Curso
+#### NoSQL: Curso
 
 <a href=""><img src="" style="height: 60%; width:60%;"/></a>
 
