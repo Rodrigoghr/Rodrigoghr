@@ -1,4 +1,4 @@
-# Hola, mi nombre es Rodrigo Hernandez 👋
+# Hi!, my name is Rodrigo Hernandez 👋
 ### Freelance Data Analyst ⚡
 <!--
 ![GitHub Followers](https://img.shields.io/github/followers/Rodrigoghr?style=social)
@@ -6,23 +6,21 @@
 -->
 ![Github Views](https://komarev.com/ghpvc/?username=Rodrigoghr&color=blue&style=flat-square&abbreviated=true)
 
-Soy un apasionado del análisis de datos y la automatización de procesos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-> 👨‍🏭 Trabajo en el area de `Data` 📊 de una empresa del sector bancario, pero estoy abierto a nuevos retos 💪
-
-> 🤓 Siempre `aprendiendo cosas nuevas`
-
-> 🧑‍🎓 Actualmente estoy aprendiendo sobre `Data Engineer` y su ecosistema de herramientas en entornos `Cloud`.
-
-> 🧑‍💻 Me encanta usar el software como solución para cada `problema`.
+I am passionate about data analysis, process automation, and above all. I enjoy programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
+> 👨‍🏭 I work in the `Data` 📊 area of a company in the banking sector, but I am open to new challenges 💪
 
+> 🤓 Always `learning new things` 🧠
 
-## Encuéntrame en:
+> 🧑‍🎓 I am currently learning about `Data Engineering` and its ecosystem of tools in `Cloud` environments ☁️
+
+> 🧑‍💻 I love using software as a `solution` ✔️ for every `problem` ❌
+
+## Follow me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigoghr)
 
-## Lenguajes / Herramientas:
+## Languages / Tools:
 <!--
 ```javascript
 const gary = {
@@ -64,7 +62,7 @@ const gary = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 -->
 
-## Mis estadísticas:
+## Statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodrigoghr&theme=transparent&hide_border=true&border_radius=5&locale=en&card_width=500)](https://git.io/streak-stats)
 
@@ -73,9 +71,9 @@ const gary = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigoghr&show_icons=true&locale=en" alt="Rodrigoghr" /></p>
 
 
-## Algunos proyectos:
+## Projects:
 
-#### Proyecto 1
+#### Project 1
 
 <!--
 #### SQL y bases de datos: Curso
