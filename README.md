@@ -67,10 +67,11 @@ const gary = {
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodrigoghr&theme=transparent&hide_border=true&border_radius=5&locale=en&card_width=500)](https://git.io/streak-stats)
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigoghr&show_icons=true&locale=en&layout=compact" alt="Rodrigoghr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigoghr&show_icons=true&locale=en" alt="Rodrigoghr" /></p>
-
+-->
 
 ## Projects:
 
