@@ -1,12 +1,12 @@
 # Hi!, my name is Rodrigo Hernandez 👋
-### Freelance Data Analyst ⚡
+### Freelance Data Engineer ⚡
 <!--
 ![GitHub Followers](https://img.shields.io/github/followers/Rodrigoghr?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Rodrigoghr?style=social)
 -->
 ![Github Views](https://komarev.com/ghpvc/?username=Rodrigoghr&color=blue&style=flat-square&abbreviated=true)
 
-I am passionate about data analysis, process automation, and above all. I enjoy programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am passionate about data engineering, process automation, and above all. I enjoy programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
 > 👨‍🏭 I work in the `Data` 📊 area of a company in the banking sector, but I am open to new challenges 💪
 
